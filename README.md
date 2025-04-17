@@ -1,8 +1,10 @@
 # File Encryption and Decryption Tool
 
-A simple C program to encrypt and decrypt text files using XOR encryption.
+A simple C program to encrypt and decrypt texts.
 
 ## Features
-- Encrypt text files using a user-defined key.
-- Decrypt encrypted files using the same key.
+- Encrypt text using a user-defined key.
+- Decrypt encrypted text using the same key.
 - User-friendly menu-driven interface.
+
+  note: this was made with little help from AI
