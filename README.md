@@ -32,8 +32,6 @@ Encrypting "Send $1000 to mom"
 becomes: "Xjsi%%Y555%yt%trt"
 
 # ( $ _ $ )
----
-[(ಥ _ ಥ)](https://heroshi-yamada.github.io/file-encryption-tool/)
 
 ---
 
